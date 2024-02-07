@@ -1,0 +1,29 @@
+1. What is Git?
+Git is like a magic folder where you keep all your project files. It's special because it can track every change you make to your files over time. So, you can always go back to an older version if something goes wrong.
+
+2. Repository (Repo):
+A repository is like a folder in your computer, but it's magic because Git is tracking everything inside it.
+
+3. Commit:
+A commit is like taking a snapshot of your project at a specific moment. It captures all the changes you've made since the last snapshot.
+
+4. Branch:
+A branch is like a different version of your project. It's useful when you want to work on a new feature or fix something without affecting the main version.
+
+5. Merge:
+Merging is like putting two branches of your project together. It combines the changes you made in one branch with the changes you made in another.
+
+6. Pull and Push:
+Pulling is like getting the latest changes from a remote repository (like a server) and adding them to your local repository. Pushing is like sending your changes from your local repository to the remote one.
+
+7. Status:
+Status is like asking Git, "Hey, what's going on?" It tells you which files have changed since the last commit, which files are staged to be committed, and which files are untracked.
+
+8. Clone:
+Cloning is like making a copy of a repository from a remote server onto your own computer. It's useful when you want to work on a project that someone else has started.
+
+9. Fork:
+Forking is like making a copy of someone else's repository on a platform like GitHub. It allows you to make changes to the project without affecting the original version. You can then suggest your changes to the original project through a pull request.
+
+10. Pull Request:
+A pull request is like asking the owner of a repository to review and approve your changes. It's often used in collaborative projects where multiple people are working together.
